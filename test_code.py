@@ -3,5 +3,5 @@ from Index import isHelloCorrect
 
 
 def test_hello():
-    word = 'Hello World'
+    word = 'Hello Worlds'
     assert (isHelloCorrect(word))
