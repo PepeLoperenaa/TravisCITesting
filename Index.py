@@ -1,2 +1,3 @@
-if __name__ == '__main__':
-    print('hello world')
+def isHelloCorrect(word):
+    if word == 'Hello World':
+        return True
