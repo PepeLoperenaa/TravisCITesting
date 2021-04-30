@@ -6,5 +6,5 @@ from Index import isHelloCorrect
 class Test(TestCase):
 
     def test_is_hello_correct(self):
-        word = 'Hello World'
+        word = 'Hello Worlds'
         self.assertTrue(isHelloCorrect(word))
