@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from TravisCITesting.Index import isHelloCorrect
+from Index import isHelloCorrect
 
 
 class Test(TestCase):
