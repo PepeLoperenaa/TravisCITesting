@@ -6,7 +6,7 @@
 FROM python:3
 
 COPY requirements.txt ./
-COPY Index.py .
+COPY src/Index.py .
 
 #Upadate the image into the latest packages
 RUN apt-get update
