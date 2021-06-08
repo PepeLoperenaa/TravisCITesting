@@ -1,4 +1,3 @@
-import pytest
 from unittest import TestCase
 
 from Index import isHelloCorrect
